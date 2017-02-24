@@ -6,7 +6,7 @@ Since we are PyAugusta, all the code you'll see here will be Python (or Python-c
 
 With that said, don't be intimidated. Anyone can learn to use git (and Python too)!
 
-If you're brand new to this, start by checking out the [intro-to-git](https://github.com/PyAugusta/git-drills/tree/master/intro-to-git) folder. There, you'll find step by step instructions on how to set up a free account, fork a repository (this one in fact), and contribute to it.
+If you're brand new to this, start by checking out the [intro-to-git](/intro-to-git) folder. There, you'll find step by step instructions on how to set up a free account, fork a repository (this one in fact), and contribute to it.
 
 If you've done this before, check out the Issues. If you're feeling froggy, fork, solve, and submit a pull request!
 
