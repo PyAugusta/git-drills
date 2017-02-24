@@ -21,4 +21,4 @@ If you've made it this far, then you're ready to contribute. While there are sev
 
 This all might seem like a lot, but once you've done it a couple of times, it's the most natural thing in the world!
 
-To learn how to create your own fork of this very project, check out the next lesson [here]().
+To learn how to create your own fork of this very project, check out the next lesson [here](5-fork-a-repo.md).
