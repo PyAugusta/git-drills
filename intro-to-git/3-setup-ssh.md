@@ -9,4 +9,4 @@ To successfully make it through the instructions, you will need to already have 
 
 *Hint*: Notice that each set of instructions contains a link under the header that allows you to specify which operating system you are using.
 
-Once you've run through these instructions, you'll be ready to move on to the [next lesson]().
+Once you've run through these instructions, you'll be ready to move on to the [next lesson](4-git-workflow.md).
