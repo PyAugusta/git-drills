@@ -7,6 +7,6 @@ Fortunately, the folks at GitHub have already put together instructions for sett
 
 To successfully make it through the instructions, you will need to already have a GitHub account and have the git bash installed on your machine.
 
-*Hint*: Notice that each set of instructions contains a link under the header that allows you to s\speecify which operating systam you are using.
+*Hint*: Notice that each set of instructions contains a link under the header that allows you to specify which operating system you are using.
 
 Once you've run through these instructions, you'll be ready to move on to the [next lesson]().
