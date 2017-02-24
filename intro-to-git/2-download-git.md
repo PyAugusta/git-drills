@@ -6,6 +6,6 @@ Now that you've created an account, it's time to download and install the git ba
 3. Once that is downloaded, run the installer.
 4. And you're good to go!
 
-Check out the next lesson [here]().
+Check out the next lesson [here](3-setup-ssh.md).
 
 *Side note*: If the above instructions didn't work for you or you'd like more detail, check out the lesson on submitting issues [here]() and we'll get it fixed.
