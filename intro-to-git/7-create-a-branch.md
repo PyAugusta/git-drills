@@ -25,3 +25,12 @@ To follow along, you will need to have cloned your fork of the project to your w
 ```bash
 $ cd ~/git_clones/git_drills
 ```
+
+2. Next, we'll create our branch and switch to it using the following commands:
+
+```bash
+$ git branch collab_add
+$ git checkout collab_add
+```
+
+The ```git branch``` command created a new branch and the ```git checkout``` command told git that it is where we want to work.
