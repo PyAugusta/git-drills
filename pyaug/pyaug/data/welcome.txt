@@ -1,0 +1,5 @@
+Welcome to PyAugusta's sample Python package!!!
+
+This package is intended to help our members learn about contributing to open source projects on git.
+
+Have fun!
