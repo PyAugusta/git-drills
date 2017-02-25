@@ -22,7 +22,7 @@ Now that you've created a fork (copy) of the project, you're ready to download i
     ```bash
     $ git clone git@github.com:your_username/git-drills.git
     ```
-    When you hit enter the above command, you may be prompted for password you used to set up your SSH keys. You should then see some output messages. To confirm that the project was cloned successfully, run the ls command - you should see that a new folder called git-drills was created.
+    When you hit enter the above command, you may be prompted for the password you used to set up your SSH keys. You should then see some output messages. To confirm that the project was cloned successfully, run the ls command - you should see that a new folder called git-drills was created.
     
     ```bash
     $ ls
