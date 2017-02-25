@@ -9,10 +9,12 @@ So far, the package is very simple. We have:
 - a Python file called setup.py.
     - This script contains the commands needed to install pyaug.
     - If you want to test it out using your clone (local copy), then navigate to this folder in your standard OS terminal or command prompt and run
-        ```python 
+        
+	```python 
 	$ python setup.py install
 	$ python -c "import pyaug; pyaug.welcome()"
 	```
+    
     - If that worked you should see the pyaug welcome message displayed
 - collaborators.md
     - This isn't something you would normally see, but for this project, we'll use it to keep track of folks who have contributed.
