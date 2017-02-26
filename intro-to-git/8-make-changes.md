@@ -32,3 +32,23 @@ Here's what our sample table looks like when rendered by GitHub:
 | value1  | value2  |
 | value3  | value4  |
 
+## Add your information to the collaborators.md file
+Ok, now that we have an understanding of markdown, we're ready to update the collaborators.md file.
+
+1. Open the file in your favorite text editor. If you've been following along, it should be located at *~/git_clones/git_drills/pyaug/collaborators.md*
+
+    *rant*: Microsoft word is not a text editor...don't use it
+
+2. Add your name and GitHub username to the appropriate columns. When you're done, it should look something like this. Please don't remove any existing entries, just add yours to the bottom.
+
+    ```
+    # pyaug contributors
+
+    | Name                      | GitHub Username            |
+    |---------------------------|----------------------------|
+    | Cory Taylor               | ctaylor08                  |
+    |                           |                            |
+    |                           |                            |
+    ```
+
+3. Save your changes
