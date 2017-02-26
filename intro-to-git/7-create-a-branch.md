@@ -29,7 +29,7 @@ To follow along, you will need to have cloned your fork of the project to your w
 
     ```bash
     $ git branch collab_add
-    $ git checkout collab_add
+    $ git checkout -b collab_add
     ```
 
     The ```git branch``` command created a new branch and the ```git checkout``` command told git that it is where we want to work.
