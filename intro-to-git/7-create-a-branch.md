@@ -33,3 +33,11 @@ To follow along, you will need to have cloned your fork of the project to your w
     ```
 
     The ```git branch``` command created a new branch and the ```git checkout``` command told git that it is where we want to work.
+
+    To verify you're on the correct branch and check it's status, try running this command:
+
+    ```bash
+    $ git status
+    ```
+
+And there you have it, you've succesfully created your very own branch. In the [next lesson](8-make-changes.md), we'll update the collaborators.md file and those changes to your fork.
