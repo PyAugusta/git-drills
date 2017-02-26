@@ -40,4 +40,4 @@ To follow along, you will need to have cloned your fork of the project to your w
     $ git status
     ```
 
-And there you have it, you've succesfully created your very own branch. In the [next lesson](8-make-changes.md), we'll update the collaborators.md file and those changes to your fork.
+And there you have it, you've succesfully created your very own branch. In the [next lesson](8-make-changes.md), we'll update the collaborators.md file and add those changes to your fork.
