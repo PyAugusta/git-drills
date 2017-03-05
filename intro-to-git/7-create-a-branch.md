@@ -7,7 +7,7 @@ So, what is a branch anyway?
 
 Think of it as yet another copy of your code. Git provides all the functionality to keep track of the changes you make, so that when it's ready, you can easily integrate your updates back into the master branch.
 
-For this practice project, we will be making to types of branches:
+For this practice project, we will be making two types of branches:
 - "Feature" branches
     - We'll make these when we want to add brand new functionality to our code base
 - "Issue" branches
@@ -29,7 +29,7 @@ To follow along, you will need to have cloned your fork of the project to your w
 
     ```bash
     $ git branch collab_add
-    $ git checkout -b collab_add
+    $ git checkout collab_add
     ```
 
     The ```git branch``` command created a new branch and the ```git checkout``` command told git that it is where we want to work.

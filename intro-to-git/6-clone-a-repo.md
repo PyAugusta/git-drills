@@ -5,8 +5,8 @@ Now that you've created a fork (copy) of the project, you're ready to download i
 
 1. Open the git shell you downloaded earlier. It should look something like this:
 
-![](img/git_shell.png)
-*sidenote*: if you're on a Linux OS, you can do all of this from your standard terminal
+    ![](img/git_shell.png)
+    *sidenote*: if you're on a Linux OS, you can do all of this from your standard terminal
 
 2. It's probably a good idea to create a directory where you can keep your clones. Type the following commands into your git shell.
     
@@ -28,6 +28,7 @@ Now that you've created a fork (copy) of the project, you're ready to download i
     ```bash
     $ ls
     ```
+
 And there you have it. You have cloned your first repository!
 
 In the [next lesson](7-create-a-branch.md), we'll learn how to create our own "feature branch".

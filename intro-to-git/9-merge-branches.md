@@ -18,7 +18,7 @@ Because the changes we made have been very simple, this should go fairly smoothl
     $ git merge --squash collab_add
     ```
 
-    At this point, git will automatically check for any conflicts. If any are found, a message will be given instructing you which files have the conflicts appear in. You will have the opportunity to then manually fix those changes. If the only thing that changed is the addition of your entry in the collaborators.md file, then the above command should just work.
+    At this point, git will automatically check for any conflicts. If any are found, a message will be given instructing you which files the conflicts appear in. You will have the opportunity to then manually fix those changes. If the only thing that changed is the addition of your entry in the collaborators.md file, then the above command should just work.
 
 3. Now, commit and push your newly merged master branch.
 

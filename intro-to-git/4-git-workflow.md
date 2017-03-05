@@ -13,7 +13,7 @@ If you've made it this far, then you're ready to contribute. While there are sev
 
 1. Create a fork of the project you want to contribute to.
 2. Clone your fork (i.e. download the code).
-3. Create "feature branches" for each change you want to make.
+3. Create "feature" or "issue" branches for each change you want to make.
 4. Add, commit, and push changes to your fork.
 5. Test your code.
 6. Clean up and merge your fork.

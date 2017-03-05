@@ -1,5 +1,5 @@
 # Making changes to your branch
-Now that we've create a new branch, it's time to make our changes. In this lesson, we'll be adding your name and GitHub username to the collaborators.md file.
+Now that we've created a new branch, it's time to make our changes. In this lesson, we'll be adding your name and GitHub username to the collaborators.md file.
 
 To follow along as intended, you should be working on your cloned fork, in the *collab_add* branch. You should also have a text editor picked out that you will use to make your changes.
 
