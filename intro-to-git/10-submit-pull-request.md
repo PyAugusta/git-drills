@@ -13,3 +13,5 @@ Now that we've made our changes and merged them back into our fork's master bran
 3. The final step is to update any comments and open the request by clicking the **Create pull request** button one more time.
 
     ![](img/open_pull.png)
+
+And there you have it! Now that you've opened a pull request, it is the project maintainers responsibility to inspect your changes and hopefully accept your request and merge your changes.
