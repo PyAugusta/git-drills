@@ -2,6 +2,6 @@
 
 | Name                      | GitHub Username            |
 |---------------------------|----------------------------|
-| Cory Taylor               | ctaylor08                  |
+| Cory Taylor            | ctaylor08                  |
 |                           |                            |
 |                           |                            |
