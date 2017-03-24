@@ -4,4 +4,6 @@
 |---------------------------|----------------------------|
 | Cory Taylor               | ctaylor08                  |
 | Jennifer Gates            | jennifergates              |
-|                           | lhobbs3464                 |
+| Larry Hobbs               | lhobbs3464                 |
+| Reggie Riser              | reggieriser                |
+|                           |                            |
