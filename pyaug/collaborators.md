@@ -2,6 +2,5 @@
 
 | Name                      | GitHub Username            |
 |---------------------------|----------------------------|
-| Cory Taylor            | ctaylor08                  |
-| Bob the Builder           |    bobob                   |
-|                           |                            |
+| Cory Taylor               | ctaylor08                  |
+| Jennifer Gates            | jennifergates              |
